@@ -1,8 +1,8 @@
 # Voodoo Vandals
 
-3 Car Scraplands Team (+150 credits)
+3 Car Scraplands Team (+300 credits)
 
-## Runner (+35 credits)
+## Runner (+85 credits)
 
 | Car                | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules         | Cost   |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------| :----: |
@@ -16,9 +16,9 @@
 | :-------- | :------ | :----: |
 | Armour Plates | Increase the cars Toughness by 1. | 50 |
 | Elite Driver | One per team only. Improve the cars Skill attribute to 4+. | 45 |
-| Ram | When this car collides with an enemy car while moving forward that car takes 1 additonal control check. | 20 |
+| Boost | One use only. This car adds 2d6 inches to its Movement during a move action. | 20 |
 
-## Truck (+85 credits)
+## Truck (+125 credits)
 
 | Car                | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules         | Cost   |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------| :----: |
@@ -32,7 +32,7 @@
 | :-------- | :------ | :----: |
 | Ram | When this car collides with an enemy car while moving forward that car takes 1 additonal control check. | 20 |
 
-## Hot Rod (+5 credits)
+## Hot Rod (+75 credits)
 
 | Car                | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules         | Cost   |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------| :----: |
@@ -45,3 +45,22 @@
 | Upgrades  | Benefit | Cost   |
 | :-------- | :------ | :----: |
 | Boost | One use only. This car adds 2d6 inches to its Movement during a move action. | 20 |
+
+---
+
+4 Car Team variation (+100 credits)
+
+## Truck +115
+
+| Car                | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules         | Cost   |
+| :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------| :----: |
+| Truck              |  6  |  4" |  5+ |  3+ |  5  |  6  | Sturdy                | 250    |
+
+| Weapon                    | Rng | Att | Dmg | Prc | Special Rules                         | Cost   |
+| :------------------------ | :-: | :-: | :-: | :-: | :------------------------------------ | :----: |
+| Heavy Cannon              | 12" | 3   |  5  |  1  | Arc (Front), Rending (1)              | 55     |
+| Caltrops                  | 3"  | 3   |  3  |  0  | Arc (Rear), Disrupt                   | 10     |
+
+| Upgrades  | Benefit | Cost   |
+| :-------- | :------ | :----: |
+| Armour Plates | Increase the cars Toughness by 1. | 50 |
