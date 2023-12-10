@@ -2,8 +2,6 @@
 
 ## 3 Car Scraplands Team (+300 credits)
 
----
-
 ### Runner (+85 credits)
 
 | Car                | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules         | Cost   |
@@ -55,8 +53,6 @@
 ---
 
 ## 4 Car Team variation (+100 credits)
-
----
 
 ### Truck +115
 
