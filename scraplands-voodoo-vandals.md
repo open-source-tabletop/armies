@@ -1,10 +1,8 @@
 # Voodoo Vandals
 
-Scraplands Team
+3 Car Scraplands Team (+150 credits)
 
-3 Cars (+150 credits)
-
-## Runner +35
+## Runner (+35 credits)
 
 | Car                | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules         | Cost   |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------| :----: |
@@ -20,7 +18,7 @@ Scraplands Team
 | Elite Driver | One per team only. Improve the cars Skill attribute to 4+. | 45 |
 | Ram | When this car collides with an enemy car while moving forward that car takes 1 additonal control check. | 20 |
 
-## Truck +85
+## Truck (+85 credits)
 
 | Car                | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules         | Cost   |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------| :----: |
@@ -34,7 +32,7 @@ Scraplands Team
 | :-------- | :------ | :----: |
 | Ram | When this car collides with an enemy car while moving forward that car takes 1 additonal control check. | 20 |
 
-## Hot Rod +5
+## Hot Rod (+5 credits)
 
 | Car                | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules         | Cost   |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------| :----: |
