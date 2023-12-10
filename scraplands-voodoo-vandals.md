@@ -1,8 +1,10 @@
 # Voodoo Vandals
 
-3 Car Scraplands Team (+300 credits)
+## 3 Car Scraplands Team (+300 credits)
 
-## Runner (+85 credits)
+---
+
+### Runner (+85 credits)
 
 | Car                | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules         | Cost   |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------| :----: |
@@ -18,7 +20,9 @@
 | Elite Driver | One per team only. Improve the cars Skill attribute to 4+. | 45 |
 | Boost | One use only. This car adds 2d6 inches to its Movement during a move action. | 20 |
 
-## Truck (+125 credits)
+---
+
+### Truck (+125 credits)
 
 | Car                | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules         | Cost   |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------| :----: |
@@ -32,7 +36,9 @@
 | :-------- | :------ | :----: |
 | Ram | When this car collides with an enemy car while moving forward that car takes 1 additonal control check. | 20 |
 
-## Hot Rod (+75 credits)
+---
+
+### Hot Rod (+75 credits)
 
 | Car                | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules         | Cost   |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------| :----: |
@@ -48,9 +54,11 @@
 
 ---
 
-4 Car Team variation (+100 credits)
+## 4 Car Team variation (+100 credits)
 
-## Truck +115
+---
+
+### Truck +115
 
 | Car                | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules         | Cost   |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------| :----: |
