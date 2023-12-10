@@ -40,5 +40,8 @@
 
 | Weapon                    | Rng | Att | Dmg | Prc | Special Rules                         | Cost   |
 | :------------------------ | :-: | :-: | :-: | :-: | :------------------------------------ | :----: |
-| Boost | One use only. This car adds 2d6 inches to its Movement during a move action. | 20 |
 | Minigun                   | 12" | 8   |  4  |  1  | Arc (Front), Volley                   | 90     |
+
+| Upgrades  | Benefit | Cost   |
+| :-------- | :------ | :----: |
+| Boost | One use only. This car adds 2d6 inches to its Movement during a move action. | 20 |
